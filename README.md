@@ -13,6 +13,14 @@ pip install -r requirements.txt
 python geotagx-geokey-sync.py
 ```
 
+#Creation of Projects on GeoKey
+-------------------------------
+* Go to http://play.geokey.org.uk/ and log in
+* Create a project name it whatever you want. 
+* After creating a project, create a category named ‘Result’, the name must be ‘Result’ otherwise the upload won’t work.
+* Update the project_name and project id mapping in `settings.py`
+
+
 #Quick Tips
 ----------
 You can setup a cronjob to run this at particular intervals to time to keep your project in sync with the UNASIGN data feed
