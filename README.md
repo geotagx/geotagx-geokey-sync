@@ -26,6 +26,19 @@ python geotagx-geokey-sync.py
 You can setup a cronjob to run this at particular intervals to time to keep your project in sync with the UNASIGN data feed
 You can learn more about cronjobs here : http://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800
 
+#Exported Results
+-----------------
+*	GeoTag-X Project Name :  ebolaresponse  
+	GeoKey Map : http://play.geokey.org.uk/geotagx/93/
+*	GeoTag-X Project Name :  emergencyshelterassessmentinthemiddleeast  
+	GeoKey Map : http://play.geokey.org.uk/geotagx/95/
+*	GeoTag-X Project Name :  yemeniculturalheritageatrisk  
+	GeoKey Map : http://play.geokey.org.uk/geotagx/97/
+*	GeoTag-X Project Name :  yamunamonsoonflooding2013  
+	GeoKey Map : http://play.geokey.org.uk/geotagx/96/
+*	GeoTag-X Project Name :  somalidrought  
+	GeoKey Map : http://play.geokey.org.uk/geotagx/94/
+
 #Author
 -------
 S.P. Mohanty <sp.mohanty@cern.ch>
